@@ -1,0 +1,68 @@
+#conteudo{
+width:1080px;
+background-color:#FFFFF0;
+margin:auto;
+}
+
+body {
+	background: #5D4157; 
+	background: linear-gradient(to right, #000000, #000000);  
+	font-family: SourceSansPro, "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:0;
+	line-height:1.4;
+	color:black;
+}
+
+#menu{
+background-color:#CEE3F6;           
+height:40px;
+font-size:25;
+text-align:center;
+}
+
+#box1{
+background-color:#F7F8E0;             
+height:380px;
+width:40%;
+float:left;
+display:table;
+padding-top:15px;
+}
+
+#box2{
+background-color:#F7F8E0;           
+height:380px;
+width:60%px;
+text-align:middle;
+line-height:100%;
+padding-left:80px;
+padding-top:15px;
+}
+
+#box3{
+background-color:#E6E6E6;             
+height:auto;
+width:auto;
+text-align:left;
+line-height:25px;
+padding-left:5px;
+}
+
+#rodape{
+background-color:#CEE3F6;            
+height:50px;
+text-align:center;
+line-height:50px;
+font-style:Verdana,italic;
+font-size:15px;
+}
+
+p,h2,h1,h3{
+margin:2;	
+} 
+
+.imageCenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
